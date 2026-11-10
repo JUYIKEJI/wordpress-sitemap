@@ -56,3 +56,8 @@ flowchart LR
 | 1.0.0 | 2026-11-05 | 第一个 WordPress 版：加首页，跳过无效链接，链接去重和转义，页面每周、文章每月，文章分批取完不设篇数上限 |
 
 注意：这个版本还没在真实的 WordPress 网站上装过，先在测试站上确认 `sitemap.xml` 能正常打开，再用到正式站上。
+
+## 相关链接
+
+- [阿彦的主页](https://github.com/JUYIKEJI)
+- [sitemap 插件（Typecho 版）](https://github.com/JUYIKEJI/sitemap)（1.2.0 版）
