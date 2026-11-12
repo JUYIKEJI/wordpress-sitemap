@@ -61,5 +61,4 @@ flowchart LR
 
 - [阿彦的主页](https://github.com/JUYIKEJI)
 - [sitemap 插件（Typecho 版）](https://github.com/JUYIKEJI/sitemap)（1.2.0 版）
-
 - [Smartideo 复刻版（WordPress 视频插件）](https://github.com/JUYIKEJI/wordpress-smartideo)（1.0.0 版）
